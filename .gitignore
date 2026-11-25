@@ -1,0 +1,12 @@
+ModernBERT-domain-classifier/
+ModernBERT-domain-classifier-save/
+checkpoint-*/
+*.safetensors
+*.bin
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
